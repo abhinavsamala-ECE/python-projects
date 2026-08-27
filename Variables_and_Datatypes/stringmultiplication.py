@@ -12,3 +12,5 @@ txt='a'
 print((a+txt)*b)
 
 #this will combine the two strings and multiply them five times
+
+#a**b means a to the power of b, it is also called exponentiation
