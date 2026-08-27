@@ -1,1 +1,1 @@
-Genesis—the starting point of my Python journey, where every lesson becomes code.
+This is my python projects repo, which include all the notes(learning) programs.
