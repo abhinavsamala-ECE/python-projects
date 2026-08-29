@@ -1,6 +1,3 @@
-from math import floor
-
-
 a,b=2,5
 c=10
 print(a+b*c)

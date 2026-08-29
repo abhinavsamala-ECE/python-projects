@@ -6,7 +6,7 @@ a+b
 
 print(a+b)  #float value is outputted since float is superior to int
 
-#float to string conversion isn't possible in python
+#float to string conversion isn't possible in python and vice versa
 a="3"
 b=3.14
 print(a+b) 

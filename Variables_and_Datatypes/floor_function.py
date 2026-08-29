@@ -1,5 +1,5 @@
 from math import floor
-#ignore the above line, it is just to show that the floor function is imported from the math module
+#the above line is used to show that the floor function is imported from the math module
 
 A=2
 B=5.0
