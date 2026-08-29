@@ -11,4 +11,3 @@ string = "hello"
 print(string[2])
 str[2]='y' #assigning values in a STRING isn't allowed
 
-#but this is allowed in a list
