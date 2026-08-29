@@ -13,4 +13,4 @@ is a multi-line string'''
 d='hi\nhello'
 
 #use len(str) to find the length of a string
-
+print(len(e))
