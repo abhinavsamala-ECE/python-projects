@@ -10,3 +10,5 @@ set1.clear() #removes all the elements in a set
 print(set1)
 
 set.pop() #removes a random value
+
+"""SET is mutable(changeable) ELEMENT inside a set is IMMUTABLE"""
