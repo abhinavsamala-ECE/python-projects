@@ -19,3 +19,5 @@ print(tup[1:3])
 
 
 #LISTS AND TUPPLES CAN CONTAIN WORDS,STRINGS AND NUMBERS
+
+"""Difference between list and tupples is that a list is meant to be changed, while a tupple cannot be changed."""

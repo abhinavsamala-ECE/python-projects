@@ -9,5 +9,5 @@ print(random[2])
 
 string = "hello"
 print(string[2])
-str[2]='y' #assigning values in a STRING isn't allowed
+str[2]='y' # type: ignore #assigning values in a STRING isn't allowed
 

@@ -2,7 +2,7 @@ list=[2,1,3]
 
 list.append(4) #adds one element to the end
 
-list.sort() #sorts the lsit in ascending order
+list.sort() #sorts the list in ascending order
 
 list.sort(reverse=True) #sorts the list in descending order
 
