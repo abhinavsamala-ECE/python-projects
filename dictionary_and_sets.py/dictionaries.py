@@ -20,3 +20,6 @@ print('city' in my_dict) # Is "city" in our notebook? False! (we erased it)
 print(my_dict.keys())    # Show all the questions
 print(my_dict.values())  # Show all the answers
 print(my_dict.items())   # Show all questions and answers together
+
+del my_dict['Alice'] #type: ignore this will raise a KeyError because 'Alice' is not a key in the dictionary
+#only keys can be deleted, not values.
