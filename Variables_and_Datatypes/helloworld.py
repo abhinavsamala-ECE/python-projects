@@ -1,2 +1,2 @@
-print("Abhinav", "is a cool nigga")
+print("Hola", "World!")
 
