@@ -2,8 +2,10 @@
 
 n=int(input("Enter a number:"))
 
-i=n-1
-while (n>=0):
-    sum=n+i
-    i-=1
-print(sum)
+i=n
+
+while(n>=1):
+    i=i+(n-1)
+    n-=1
+
+print(i)
