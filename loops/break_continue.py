@@ -1,4 +1,4 @@
-#break:used to terminate the loop
+"""break:used to terminate the loop, sets a max limit"""
 i=1
 while i<=5:
     print(i)
